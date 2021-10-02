@@ -25,10 +25,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ![](https://i.imgur.com/MXbHQbL.gif)
 
+
 #### Bonus walkthrough
 Note: GIF shows the app working on both the iPhone 12 and iPhone 11 models, in both portrait and landscape modes
 
 ![](https://i.imgur.com/JAJVoeM.gif)
+
 
 Note: GIF shows the app working on my personal iPhone
 
@@ -39,4 +41,32 @@ From https://courses.codepath.com/courses/ios_university/unit/1#!assignment
 ### Notes
 Describe any challenges encountered while building the app.
 
-- I found it challenging sometimes understanding why each line of code was called. This was because I tried to comprehend the general logic behind the code, instead of its specific reason in this instance/example. 
+- I found it challenging sometimes understanding why each line of code was called. This was because I tried to comprehend the general logic behind the code, instead of its specific reason in this instance/example.
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<!--<img src="YOUR_GIF_URL_HERE" width=250><br> -->
+![](https://i.imgur.com/Ap90lgz.gif)
+
+From https://courses.codepath.com/courses/ios_university/unit/2#!assignment
+
+
+### Notes
+It is hard to remember what steps/variables are related to other steps/variables if I were to do this again and alone.
+
+## Other Notes
+- README file was created using hackmd.io
+https://hackmd.io/@codepath-tfs/record-gifs-quicktime
+- GIFs are not allowed to be over 5Mb on github, although there is a 10Mb limit on hackmd.io
